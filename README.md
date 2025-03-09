@@ -12,7 +12,7 @@ This repository serves as a knowledge base for Lightning Protocol concepts, gath
 
 ## 🗂️ Topics Covered
 
-- Hash TimeLock Contract in Lightning Protocol 
+- [Hash TimeLock Contract in Lightning Protocol](hash-timelocked-contract-topic-001.md)
 - MAC & HMAC utilities in data exchange between entities in Lightning (Coming soon)
 
 ## 💡 Why This Project?

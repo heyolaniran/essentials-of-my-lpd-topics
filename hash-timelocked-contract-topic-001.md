@@ -1,7 +1,7 @@
 # Hash Timelocked Contract (HTLC) 
 
     Hello guys, welcome to my first topic in Lightning Protocol Development. 
-    In this topic, we will be discussing Hash Timelocked Contract (HTLC).
+    In this topic, we will be discussing about Hash Timelocked Contract (HTLC).
 
 ## What is a HTLC ?
 A hash Timelocked contract is basically a contract between two entities (nodes) in the lightning Network. This contract says: 
