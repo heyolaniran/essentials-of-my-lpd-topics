@@ -40,5 +40,6 @@ If you find this resource helpful, consider giving it a star! Your support helps
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - Open Source. 
+
 
