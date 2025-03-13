@@ -44,6 +44,8 @@ Let's take an example without and with MAC
 
     At this point, we can introduce `HMAC, which is a MAC implementation based on hashed functions`. 
 
+     ![hmac-msg-key-order](./images/topic-002-img4.png)
+
     HMAC is now here to provides uses : 
         
     - More privacy 
