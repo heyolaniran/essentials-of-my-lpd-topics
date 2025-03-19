@@ -15,6 +15,8 @@ This repository serves as a knowledge base for Lightning Protocol concepts, gath
 - [Hash TimeLock Contract in Lightning Protocol](hash-timelocked-contract-topic-001.md)
 - [MAC & HMAC utilities in data exchange between entities in Lightning](mac-hmac-in-lightning-topic-002.md)
 
+- [Payment Routing failures in Lightning Protocol](payments-routing-failure-topic-003.md)
+
 ## 💡 Why This Project?
 
 I created this resource primarily for two reasons:
